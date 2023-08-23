@@ -1,6 +1,17 @@
 
+<<<<<<< HEAD
 hi hello hi
 hi 
 me
 
 good afternoon
+=======
+
+
+
+
+
+
+
+good morning
+>>>>>>> new
