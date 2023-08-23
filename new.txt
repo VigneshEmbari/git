@@ -5,9 +5,21 @@ good morning
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 bad morning
 
 afternoon
+=======
+main branch change1
+
+
+main branch change 2
+=======
+bad morning
+
+afternoon
+<<<<<<< HEAD
+>>>>>>> newbranch1
 =======
 main branch change1
 
@@ -26,6 +38,7 @@ evng
 ngt
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 main branch change1
 >>>>>>> 9f8fdbe (main1 commit)
 
@@ -37,6 +50,8 @@ main branch change1
 
 hello new
 =======
+=======
+>>>>>>> newbranch1
 >>>>>>> newbranch1
 
 
@@ -45,4 +60,7 @@ newbranch2
 
 newbranch2 commit 2
 >>>>>>> newbranch2
+<<<<<<< HEAD
+>>>>>>> newbranch1
+=======
 >>>>>>> newbranch1
