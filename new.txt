@@ -3,7 +3,13 @@ tony
 
 good morning
 
+<<<<<<< HEAD
 main branch change1
 
 
 main branch change 2
+=======
+bad morning
+
+afternoon
+>>>>>>> newbranch1
