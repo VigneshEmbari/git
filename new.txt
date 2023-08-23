@@ -12,6 +12,7 @@ main branch change 2
 bad morning
 
 afternoon
+<<<<<<< HEAD
 >>>>>>> newbranch1
 
 
@@ -22,3 +23,10 @@ main change 2
 
 
 main change 3
+=======
+
+
+evng
+
+ngt
+>>>>>>> newbranch1
