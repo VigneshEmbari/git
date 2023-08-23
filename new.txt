@@ -4,29 +4,22 @@ tony
 good morning
 
 <<<<<<< HEAD
-main branch change1
-
-
-main branch change 2
-=======
 bad morning
 
 afternoon
-<<<<<<< HEAD
->>>>>>> newbranch1
-
-
-main change 1
-
-
-main change 2
-
-
-main change 3
-=======
 
 
 evng
 
 ngt
->>>>>>> newbranch1
+=======
+main branch change1
+>>>>>>> 9f8fdbe (main1 commit)
+
+
+
+
+
+
+
+hello new
